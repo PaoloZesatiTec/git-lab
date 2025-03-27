@@ -16,13 +16,13 @@ of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/imag
 
 ### Code Examples 
 
-print(2+2)
+```python print("2+2") ```
 
 ### Lists
 
-- [] Turn on GitHub Pages
-- [] Outline my portfolio
-- [] Introduce myself to the world
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 ## References
 
