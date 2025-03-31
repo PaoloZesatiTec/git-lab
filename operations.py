@@ -2,7 +2,7 @@ a = int(input("Give me the first number:"))
 b = int(input("Give me the second number:"))
 
 # Display the addition
-print(a + b)
+print("Addition: ", a + b)
 
 # Display the subtraction
-print(a - b)
+print("Subtraction: ", a - b)
