@@ -11,7 +11,11 @@ Gitt
 
 ### Images
 
+<<<<<<< HEAD
 ![Octocat with a hat](octocat1.png)
+=======
+![Screenshot of a Octocat with a hat.](octocat1.png)
+>>>>>>> da7007a (Add)
 
 ![Screenshot Octocat with a crocodile](octocat.png)
 
