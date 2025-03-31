@@ -11,13 +11,16 @@ Gitt
 
 ### Images
 
+
 ![Screenshot of a Octocat with a hat.](octocat1.png)
 
 ![Screenshot Octocat with a crocodile](octocat.png)
 
 ### Code Examples 
 
-```python print(2+2) ```
+```python
+print(2+2)
+```
 
 ### Lists
 
